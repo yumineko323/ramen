@@ -1,7 +1,7 @@
 #Greenfoot project file
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
->>>>>>>=e4f6ad2e02657b49cd35fdbffd44e98cbbae6cd5
+>>>>>>>=7707784fe9493d21fcbebdfcf6eef6e4dcd697ad
 class.MyWorld.image=space1.jpg
 class.MyWorld.superclass=greenfoot.World
 class.Tamura.image=ppl1.png
@@ -12,8 +12,8 @@ class.neko.image=mouse.png
 class.neko.superclass=greenfoot.Actor
 mainWindow.height=574
 mainWindow.width=856
-mainWindow.x=981
-mainWindow.y=352
+mainWindow.x=896
+mainWindow.y=198
 package.numDependencies=0
 package.numTargets=4
 project.charset=UTF-8
@@ -32,8 +32,8 @@ target1.x=160
 target1.y=10
 target2.editor.height=700
 target2.editor.width=900
-target2.editor.x=815
-target2.editor.y=227
+target2.editor.x=103
+target2.editor.y=52
 target2.height=50
 target2.name=neko
 target2.naviview.expanded=true
