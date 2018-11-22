@@ -14,6 +14,14 @@ public class Tamura extends Actor
      */
     public void act() 
     {
+        if( Greenfoot.isKeyDown( "down" ) ){
+        setRotation(270);
+        move(1);
+        }
+        if( Greenfoot.isKeyDown( "left" ) ){
+        setRotation(180);
+        move(1);
+        }
         // Add your action code here.
     }    
 }
